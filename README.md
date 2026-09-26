@@ -1,2 +1,3 @@
 # swarm-intelligence-rabbits-digging-tunnels
-It is a creative coding programme that explores the swarm intelligence. The swarm intelligence is a type of intelligence that individuals can team ups and know exactly what to do without any central commanders or planners. 
+It is a creative coding programme that explores swarm intelligence. Swarm intelligence is a type of intelligence in which individuals can team up and know exactly what to do without any central commanders or planners.
+This programme allows users to randomly add rabbits. Rabbits will automatically start digging tunnels underground to build their home without any central planners or commanders. Each rabbit knows exactly what to do individually, and their goal is to build a suitable home underground, which slightly changes the soil structure underground and causes the house above the ground to collapse.
